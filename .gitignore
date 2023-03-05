@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 node_modules/
 .env
@@ -74,3 +75,6 @@ yarn-error.log*
 .next/
 
 
+=======
+
+>>>>>>> a5e1846531c485565701a62e64105e989a3ba6d8

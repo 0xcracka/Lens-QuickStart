@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 root = true
 
 [packages/**.js{,x}]
@@ -8,6 +9,17 @@ indent_size = 2
 [*.{sol,yul}]
 indent_style = space
 indent_size = 4
+=======
+root = true
+
+[packages/**.js{,x}]
+indent_style = space
+indent_size = 2
+
+[*.{sol,yul}]
+indent_style = space
+indent_size = 4
+>>>>>>> a5e1846531c485565701a62e64105e989a3ba6d8
 =======
 root = true
 
